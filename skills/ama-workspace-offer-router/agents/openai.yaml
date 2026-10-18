@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workspace Offer Router"
+  short_description: "Route workspace needs into bounded AMA offers."
+  default_prompt: "Use $ama-workspace-offer-router to structure this workspace task with evidence and clear next actions."
